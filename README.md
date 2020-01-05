@@ -4,6 +4,9 @@ A Python script that writes into your memory using static pointers that allows y
 # Requirements:
 Python3
 
+# Credits:
+ReadWriteMemory.py: https://github.com/vsantiago113/ReadWriteMemory
+
 # Usage for ACHack.py:
 ```
 $ git clone https://github.com/SKane315/AssultCubeTrainer.git
