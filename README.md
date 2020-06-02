@@ -9,7 +9,7 @@ ReadWriteMemory.py: https://github.com/vsantiago113/ReadWriteMemory
 
 # Usage for ACHack.py:
 ```
-$ git clone https://github.com/SKane315/AssultCubeTrainer.git
+$ git clone https://github.com/Synth9283/AssultCubeTrainer.git
 $ cd AssultCubeTrainer
 $ python ACHack.py
 ```
